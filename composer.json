@@ -11,5 +11,7 @@
             "email": "jj.strootman@alfa-college.nl"
         }
     ],
-    "require": {}
+    "require": {
+        "ext-pdo": "*"
+    }
 }
