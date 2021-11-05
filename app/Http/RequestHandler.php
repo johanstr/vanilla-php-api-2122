@@ -1,6 +1,4 @@
 <?php
-
-
 namespace App\Http;
 
 
@@ -61,6 +59,7 @@ class RequestHandler
    {
       ApiResponse::sendCORSHeader();
    }
+
 
 
 }
